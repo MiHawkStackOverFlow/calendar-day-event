@@ -1215,6 +1215,10 @@
     merge-source-map "^1.1.0"
     schema-utils "^2.7.0"
 
+"@mobiscroll/angular@https://npm.mobiscroll.com/@mobiscroll/angular-trial/-/angular-trial-5.10.0.tgz":
+  version "5.10.0"
+  resolved "https://npm.mobiscroll.com/@mobiscroll/angular-trial/-/angular-trial-5.10.0.tgz#df0d446ba4646035013f336b831cda0be2f8275e"
+
 "@ngtools/webpack@12.2.7":
   version "12.2.7"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-12.2.7.tgz#864b66c0c80acbe6b0cb15ff205b7fbbca7f8d0e"
